@@ -1,0 +1,14 @@
+{
+  "name": "asterisk-cluster",
+  "version": "1.0.0",
+  "description": "Cluster Asterisk Events Together",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Adam Fowler",
+  "license": "MIT",
+  "dependencies": {
+    "asterisk.io": "^0.1.1"
+  }
+}
